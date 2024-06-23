@@ -1,5 +1,5 @@
 .aboutbg{
-    background-image: url(../../../public/aboutusbg.png);
+    background-image: url('../../../public/aboutusbg.png');
     min-height:100vh;
     min-width: 100%;
     background-size: cover;

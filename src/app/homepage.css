@@ -1,5 +1,5 @@
 .homebg {
-    background-image: url(../../public/homebg.png);
+    background-image: url('../../public/homebg.png');
     min-height: 100vh;
     min-width: 100%;
     background-size: cover;
