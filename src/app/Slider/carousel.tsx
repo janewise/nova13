@@ -16,7 +16,7 @@ import comfront from "../../../public/commanfront.png";
 import comback from "../../../public/commanback.png";
 import genfront from "../../../public/genfront.png";
 import genback from "../../../public/genback.png";
-import legfront from "./../../public/Legfront.png";
+import legfront from "../../../public/Legfront.png";
 import legback from "../../../public/Legback.png";
 import invfront from "../../../public/invfront.png";
 import invback from "../../../public/invback.png";
