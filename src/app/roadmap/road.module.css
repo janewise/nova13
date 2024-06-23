@@ -1,5 +1,5 @@
 .roadbg{
-background-image: url(../../../public/Roadmapbg.png);
+background-image: url("../../../public/Roadmapbg.png");
 min-height:100vh;
 min-width: 100%;
 background-size: cover;
